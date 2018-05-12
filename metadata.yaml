@@ -1,0 +1,39 @@
+_repo: Erasmus--13-Onze-Groote-Mannen_18850
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18850-h/images/cover-small.jpg
+creator:
+  author:
+    agent_name: Leeuwen, J. A. C. van (Jacobus Adrien Cornelius)
+    aliases:
+    - Leeuwen, Jacobus Adrien Cornelius van
+    - Van Leeuwen, J. A. C. (Jacobus Adrien Cornelius)
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '8296'
+    url: http://www.gutenberg.org/2009/agents/8296
+  editor:
+    agent_name: Veen, S. D. van (Sietze Douwes)
+    aliases:
+    - Van Veen, S. D. (Sietze Douwes)
+    - Veen, Sietze Douwes van
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '8297'
+    url: http://www.gutenberg.org/2009/agents/8297
+description: ''
+gutenberg_issued: '2006-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18850'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Onze groote mannen ; Serie I ; no. 2
+subjects:
+- !lcc 'PA'
+- !lcsh 'Erasmus, Desiderius, -1536'
+title: "Erasmus\r\nOnze Groote Mannen"
+url: http://www.gutenberg.org/ebooks/18850
